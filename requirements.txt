@@ -1,0 +1,6 @@
+apscheduler==3.0.4
+logutils==0.3.3
+setuptools==18.4
+redis==2.10.5
+requests==2.8.1
+suds-jurko==0.6

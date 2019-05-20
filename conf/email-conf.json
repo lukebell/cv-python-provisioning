@@ -1,0 +1,12 @@
+{
+  "host": "smtpint.corp.cablevision.com.ar",
+  "port": 110,
+  "username": "",
+  "password": "",
+  "subject": "",
+  "body": "",
+  "fromAddress": "",
+  "toAddress": [],
+  "ccAddress": [],
+  "bccAddress": []
+}

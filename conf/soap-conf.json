@@ -1,0 +1,18 @@
+{
+  "RightNowSOAP": {
+    "host": "https://cablevisionfibertel--tst1.custhelp.com",
+    "wsdl": "/cgi-bin/cablevisionfibertel.cfg/services/soap?wsdl",
+    "soap_url": "https://cablevisionfibertel--tst1.custhelp.com/cgi-bin/cablevisionfibertel.cfg/services/soap",
+    "wsdl_url": "https://cablevisionfibertel--tst1.custhelp.com/cgi-bin/cablevisionfibertel.cfg/services/soap?wsdl",
+    "methods": [
+      "Destroy",
+      "Update",
+      "Create",
+      "Get",
+      "QueryObjects",
+      "QueryCSV"
+    ],
+    "username": "idp_connect",
+    "password": "Cable123"
+  }
+}

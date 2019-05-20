@@ -1,0 +1,12 @@
+{
+  "get_ememo_users": {
+    "url": "http://sr-carbon-at01.corp.cablevision.com.ar:8280/ememo/users",
+    "headers": {
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+      "Content-Type": "application/json; charset=UTF-8"
+    },
+    "params": [],
+    "user": "",
+    "password": ""
+  }
+}
